@@ -16,7 +16,7 @@ We can see that 28 is the first triangle number to have over five divisors.
 
 What is the value of the first triangle number to have over five hundred divisors?
  */
-
+import java.lang.Math;
 public class Euler12_Triangle500Divisors
 {
     public static void main(String args[]) {
@@ -43,15 +43,19 @@ public class Euler12_Triangle500Divisors
     }
     
     public static int numFactors(long testVal) {
-        int facCount=2;
-        long maxFac=testVal/2;
-        
+        int facCount=2;  //accounts for 1 and the test value
+        long maxFac=(long)Math.ceil(Math.sqrt(testVal));  //only need to test for factors up to
+        //the square root of the test value
         long i=2;
         while(i<=maxFac) {
             if(testVal % i == 0)
-                facCount++;
+                facCount += 2;  //each time a factor < sqrt(testVal) is found, a factor > sqrt(testVal) is also found
             i++;
         }
+        //check for perfect square:  If found, subtract 1 from the count
+        if(Math.ceil(Math.sqrt(testVal))*Math.ceil(Math.sqrt(testVal)) == testVal)
+            facCount--;
+
         return facCount;
     }
 }
