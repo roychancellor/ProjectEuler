@@ -27,7 +27,7 @@ public class Euler15_LatticePathsPascal
         System.out.print("\n" + numRows + "x" + numRows + " grid paths = " + (2*sumPaths));
     }
     
-    public static /*ArrayList<ArrayList<Integer>>*/ long[][] pascalsTriangle(int n) {
+    public static long[][] pascalsTriangle(int n) {
         int numRows=2*n-1;
         long [][] coeffs = new long[numRows][numRows+1];  //array for holding Pascal coeffs
 
