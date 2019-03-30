@@ -28,17 +28,16 @@ public class Euler15_LatticePathsPascal
     }
     
     public static /*ArrayList<ArrayList<Integer>>*/ long[][] pascalsTriangle(int n) {
-        int numRows=2*n-1;/*, numCols=n;*/
+        int numRows=2*n-1;
         long [][] coeffs = new long[numRows][numRows+1];  //array for holding Pascal coeffs
-        System.out.println("\n*******");
+
         //compute the Pascal's triangle coefficients up to row n (Pascal's begins with row 0)
         coeffs[0][0] = 1;
         coeffs[1][0] = 1;
         coeffs[1][1] = 1;
         for(int r=2; r<numRows; r++) {
-            //coeffs.get(r).add(1);  //put a 1 in the first column always
             coeffs[r][0] = 1;  //put a 1 in the first column always
-            for(int c=1; c<r; c++)
+            for(int c=1; c<r; c++)  //don't really need all the columns...could reduce
                 coeffs[r][c] = coeffs[r-1][c-1] + coeffs[r-1][c];
             coeffs[r][r] = 1;  //put a 1 in the last column always
         }
