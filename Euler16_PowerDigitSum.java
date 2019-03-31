@@ -24,7 +24,7 @@ public class Euler16_PowerDigitSum
                 carry=0;
                 if(prod<10)
                     digits.set(j,prod);  //update the jth digit
-                else {  //the product exceeded 10, so set the carry value & increment j to the next place
+                else {  //the product exceeded 10, so set the carry value
                     digits.set(j,prod%10);
                     carry=(prod/10)%10;
                 }
