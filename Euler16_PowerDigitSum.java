@@ -21,7 +21,7 @@ public class Euler16_PowerDigitSum
             int carry=0;
             while(j<numDigits) {
                 prod=digits.get(j)*2 + carry;
-                carry=0;
+                carry=0;  //reset the carry after each multiplication
                 if(prod<10)
                     digits.set(j,prod);  //update the jth digit
                 else {  //the product exceeded 10, so set the carry value
@@ -32,9 +32,6 @@ public class Euler16_PowerDigitSum
             }
             if(carry>0)
                 digits.add(carry);  //make the next digit the carry digit
-            /*for(int k=digits.size()-1; k>=0; k--)
-                System.out.print(digits.get(k));
-            System.out.println();*/
         }
         //find the sum of the digits
         long sum=0;
