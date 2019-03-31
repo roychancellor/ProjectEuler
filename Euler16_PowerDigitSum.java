@@ -10,12 +10,12 @@ public class Euler16_PowerDigitSum
     public static void main(String args[]) {
         //int [] digits = new int[302];
         ArrayList<Integer> digits = new ArrayList<Integer>();
-        int prod=1;
+        int prod=1, power=1000;
         
         System.out.println("\n*****");
         digits.add(1);  //element 0
         int numDigits;
-        for(int i=1; i<=1000; i++) {
+        for(int i=1; i<=power; i++) {
             numDigits=digits.size();
             int j=0;
             int carry=0;
