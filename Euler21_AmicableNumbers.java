@@ -13,8 +13,8 @@ public class Euler21_AmicableNumbers {
 		long sumAmic = 0;
 		long b=0;
 		long maxAmic = 10000;
-		Amicable am = new Amicable();
-		for(int a=2; a<=maxAmic; a++) {
+		Amicable am = new Amicable();  //didn't really need to create a separate class, but did so for practice
+		for(int a=2; a<=maxAmic; a++) {  //iterate from 2 to the maximum amicable number required
 			b = am.getAmicable(a);
 			//getAmicable will return 0 if a and b are not amicable, otherwise b is amicable to a
 			//by rule, do not count amicable pairs where a = b
@@ -25,6 +25,6 @@ public class Euler21_AmicableNumbers {
 				System.out.println(a + " and " + b + " are amicable");
 			}
 		}
-		System.out.println("The sum of amicable numbers under " + maxAmic + " is " + sumAmic);  //divide by 2 because pairs are found twice
+		System.out.println("The sum of amicable numbers under " + maxAmic + " is " + sumAmic);
 	}
 }
