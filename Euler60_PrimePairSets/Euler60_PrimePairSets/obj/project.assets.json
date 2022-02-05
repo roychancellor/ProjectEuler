@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 3,
   "targets": {
@@ -87,4 +88,95 @@
       }
     }
   }
+=======
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "RoyUtils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/RoyUtils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RoyUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoyUtils/1.0.0": {
+      "type": "project",
+      "path": "../../../RoyUtils/RoyUtils/RoyUtils/RoyUtils.csproj",
+      "msbuildProject": "../../../RoyUtils/RoyUtils/RoyUtils/RoyUtils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "RoyUtils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\roych\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev.net\\ProjectEuler\\Euler60_PrimePairSets\\Euler60_PrimePairSets\\Euler60_PrimePairSets.csproj",
+      "projectName": "Euler60_PrimePairSets",
+      "projectPath": "C:\\dev.net\\ProjectEuler\\Euler60_PrimePairSets\\Euler60_PrimePairSets\\Euler60_PrimePairSets.csproj",
+      "packagesPath": "C:\\Users\\roych\\.nuget\\packages\\",
+      "outputPath": "C:\\dev.net\\ProjectEuler\\Euler60_PrimePairSets\\Euler60_PrimePairSets\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\roych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\dev.net\\RoyUtils\\RoyUtils\\RoyUtils\\RoyUtils.csproj": {
+              "projectPath": "C:\\dev.net\\RoyUtils\\RoyUtils\\RoyUtils\\RoyUtils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+>>>>>>> d9c22b24cd5f796081e701d17bd92728397709b4
 }

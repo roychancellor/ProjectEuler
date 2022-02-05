@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net5.0
 build_property.TargetPlatformMinVersion = 
@@ -8,3 +9,15 @@ build_property.IncludeAllContentForSelfExtract =
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Euler59_XORDecryption
 build_property.ProjectDir = C:\dev.net\ProjectEuler\Euler59_XORDecryption\
+=======
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Euler59_XORDecryption
+build_property.ProjectDir = C:\dev.net\ProjectEuler\Euler59_XORDecryption\
+>>>>>>> d9c22b24cd5f796081e701d17bd92728397709b4

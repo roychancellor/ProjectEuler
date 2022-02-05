@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "3VtDmgzVbyTJesPBcLiJGE42Slo+0jlL3v1E7aMHLZ+QO3I0zGGP6lsLutTd3VbbnbQCaw8r7TDEF/p/Qn0qUg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\dev.net\\ProjectEuler\\Euler60_PrimePairSets\\Euler60_PrimePairSets\\Euler60_PrimePairSets.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "3VtDmgzVbyTJesPBcLiJGE42Slo+0jlL3v1E7aMHLZ+QO3I0zGGP6lsLutTd3VbbnbQCaw8r7TDEF/p/Qn0qUg==",
+  "success": true,
+  "projectFilePath": "C:\\dev.net\\ProjectEuler\\Euler60_PrimePairSets\\Euler60_PrimePairSets\\Euler60_PrimePairSets.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> d9c22b24cd5f796081e701d17bd92728397709b4
 }

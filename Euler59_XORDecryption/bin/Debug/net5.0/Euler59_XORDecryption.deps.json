@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v5.0",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Euler59_XORDecryption/1.0.0": {
+        "runtime": {
+          "Euler59_XORDecryption.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euler59_XORDecryption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> d9c22b24cd5f796081e701d17bd92728397709b4
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "YZtUgDFFzufJ1BFO24a4h9JoMsCg6rZC0iGrK5X9AKe8OwOfkJEIpuY6ks9Gg1UFTBbUOtUwAOmc6HQrozrsKw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\dev.net\\ProjectEuler\\Euler59_XORDecryption\\Euler59_XORDecryption.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "YZtUgDFFzufJ1BFO24a4h9JoMsCg6rZC0iGrK5X9AKe8OwOfkJEIpuY6ks9Gg1UFTBbUOtUwAOmc6HQrozrsKw==",
+  "success": true,
+  "projectFilePath": "C:\\dev.net\\ProjectEuler\\Euler59_XORDecryption\\Euler59_XORDecryption.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> d9c22b24cd5f796081e701d17bd92728397709b4
 }
