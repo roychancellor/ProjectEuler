@@ -1,0 +1,16 @@
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\Euler59_XORDecryption.exe
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\Euler59_XORDecryption.deps.json
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\Euler59_XORDecryption.runtimeconfig.json
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\Euler59_XORDecryption.runtimeconfig.dev.json
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\Euler59_XORDecryption.dll
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\ref\Euler59_XORDecryption.dll
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\bin\Debug\net5.0\Euler59_XORDecryption.pdb
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.AssemblyInfoInputs.cache
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.AssemblyInfo.cs
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.dll
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\ref\Euler59_XORDecryption.dll
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.pdb
+C:\dev.net\ProjectEuler\Euler59_XORDecryption\obj\Debug\net5.0\Euler59_XORDecryption.genruntimeconfig.cache

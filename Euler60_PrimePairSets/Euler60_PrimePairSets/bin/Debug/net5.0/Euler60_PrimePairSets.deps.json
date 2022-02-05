@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Euler60_PrimePairSets/1.0.0": {
+        "dependencies": {
+          "RoyUtils": "1.0.0"
+        },
+        "runtime": {
+          "Euler60_PrimePairSets.dll": {}
+        }
+      },
+      "RoyUtils/1.0.0": {
+        "runtime": {
+          "RoyUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euler60_PrimePairSets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoyUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
