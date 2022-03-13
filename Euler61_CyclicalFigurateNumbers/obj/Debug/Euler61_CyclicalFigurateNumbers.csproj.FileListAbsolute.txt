@@ -1,0 +1,7 @@
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\bin\Debug\Euler61_CyclicalFigurateNumbers.exe.config
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\bin\Debug\Euler61_CyclicalFigurateNumbers.exe
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\bin\Debug\Euler61_CyclicalFigurateNumbers.pdb
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\obj\Debug\Euler61_CyclicalFigurateNumbers.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\obj\Debug\Euler61_CyclicalFigurateNumbers.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\obj\Debug\Euler61_CyclicalFigurateNumbers.exe
+C:\dev.net\ProjectEuler\Euler61_CyclicalFigurateNumbers\obj\Debug\Euler61_CyclicalFigurateNumbers.pdb
