@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler62_CubicPermutations", "Euler62_CubicPermutations.csproj", "{D84D174A-A97A-4EB1-94E0-581AF82BB19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84D174A-A97A-4EB1-94E0-581AF82BB19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84D174A-A97A-4EB1-94E0-581AF82BB19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84D174A-A97A-4EB1-94E0-581AF82BB19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84D174A-A97A-4EB1-94E0-581AF82BB19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44C576F-8F02-4A53-BB77-B468BBAED888}
+	EndGlobalSection
+EndGlobal

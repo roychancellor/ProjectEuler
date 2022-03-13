@@ -1,0 +1,7 @@
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\bin\Debug\Euler62_CubicPermutations.exe.config
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\bin\Debug\Euler62_CubicPermutations.exe
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\bin\Debug\Euler62_CubicPermutations.pdb
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\obj\Debug\Euler62_CubicPermutations.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\obj\Debug\Euler62_CubicPermutations.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\obj\Debug\Euler62_CubicPermutations.exe
+C:\dev.net\ProjectEuler\Euler62_CubicPermutations\obj\Debug\Euler62_CubicPermutations.pdb
