@@ -1,0 +1,17 @@
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\UtilsTests.dll
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\UtilsTests.pdb
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Euler63_PowerfulDigitCounts.exe
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Euler63_PowerfulDigitCounts.pdb
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Euler63_PowerfulDigitCounts.exe.config
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev.net\ProjectEuler\UtilsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\dev.net\ProjectEuler\UtilsTests\obj\Debug\UtilsTests.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\UtilsTests\obj\Debug\UtilsTests.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\UtilsTests\obj\Debug\UtilsTests.csproj.CopyComplete
+C:\dev.net\ProjectEuler\UtilsTests\obj\Debug\UtilsTests.dll
+C:\dev.net\ProjectEuler\UtilsTests\obj\Debug\UtilsTests.pdb

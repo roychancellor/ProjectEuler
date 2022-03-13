@@ -1,0 +1,7 @@
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\bin\Debug\Euler63_PowerfulDigitCounts.exe.config
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\bin\Debug\Euler63_PowerfulDigitCounts.exe
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\bin\Debug\Euler63_PowerfulDigitCounts.pdb
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\obj\Debug\Euler63_PowerfulDigitCounts.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\obj\Debug\Euler63_PowerfulDigitCounts.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\obj\Debug\Euler63_PowerfulDigitCounts.exe
+C:\dev.net\ProjectEuler\Euler63_PowerfulDigitCounts\obj\Debug\Euler63_PowerfulDigitCounts.pdb
