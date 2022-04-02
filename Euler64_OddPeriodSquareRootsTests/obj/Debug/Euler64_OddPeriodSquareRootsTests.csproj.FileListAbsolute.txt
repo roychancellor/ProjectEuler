@@ -1,0 +1,17 @@
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Euler64_OddPeriodSquareRootsTests.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Euler64_OddPeriodSquareRootsTests.pdb
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Euler64_OddPeriodSquareRoots.exe
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Euler64_OddPeriodSquareRoots.pdb
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Euler64_OddPeriodSquareRoots.exe.config
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\obj\Debug\Euler64_OddPeriodSquareRootsTests.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\obj\Debug\Euler64_OddPeriodSquareRootsTests.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\obj\Debug\Euler64_OddPeriodSquareRootsTests.dll
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\obj\Debug\Euler64_OddPeriodSquareRootsTests.pdb
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRootsTests\obj\Debug\Euler64_OddPeriodSquareRootsTests.csproj.CopyComplete

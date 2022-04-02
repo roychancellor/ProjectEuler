@@ -1,0 +1,7 @@
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\bin\Debug\Euler64_OddPeriodSquareRoots.exe.config
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\bin\Debug\Euler64_OddPeriodSquareRoots.exe
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\bin\Debug\Euler64_OddPeriodSquareRoots.pdb
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\obj\Debug\Euler64_OddPeriodSquareRoots.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\obj\Debug\Euler64_OddPeriodSquareRoots.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\obj\Debug\Euler64_OddPeriodSquareRoots.exe
+C:\dev.net\ProjectEuler\Euler64_OddPeriodSquareRoots\obj\Debug\Euler64_OddPeriodSquareRoots.pdb
