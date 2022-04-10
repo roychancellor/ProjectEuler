@@ -1,0 +1,7 @@
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\bin\Debug\ProjectEuler65_ConvergentsOfe.exe.config
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\bin\Debug\ProjectEuler65_ConvergentsOfe.exe
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\bin\Debug\ProjectEuler65_ConvergentsOfe.pdb
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\obj\Debug\ProjectEuler65_ConvergentsOfe.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\obj\Debug\ProjectEuler65_ConvergentsOfe.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\obj\Debug\ProjectEuler65_ConvergentsOfe.exe
+C:\dev.net\ProjectEuler\ProjectEuler65_ConvergentsOfe\obj\Debug\ProjectEuler65_ConvergentsOfe.pdb
