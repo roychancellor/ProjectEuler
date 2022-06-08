@@ -74,6 +74,28 @@ namespace ProjectEuler65_ConvergentsOfe.Tests
         }
 
         [TestMethod]
+        public void GenerateCoefficientsForConvergent_Sqrt61_ShouldPassIf_GeneratesCorrectCoefficients()
+        {
+            var convergentToTest = TestTransactions.CONVERGENT_SQRT_61;
+            int numberToMake = 5 * convergentToTest.PeriodicCoeffs.Count + 1;
+
+            var coeffs = Logic.GenerateCoefficientsForConvergent(numberToMake, convergentToTest);
+
+            Assert.AreEqual(convergentToTest.LeadingCoeff, coeffs[0]);
+            int p = 0;
+            int period = convergentToTest.PeriodicCoeffs.Count;
+            for (int i = 1; i < numberToMake; i++)
+            {
+                Assert.AreEqual(convergentToTest.PeriodicCoeffs[p], coeffs[i]);
+                p++;
+                if (p == period)
+                {
+                    p = 0;
+                }
+            }
+        }
+
+        [TestMethod]
         public void GenerateCoefficientsForConvergent_e_ShouldPassIf_GeneratesCorrectCoefficients()
         {
             var convergentToTest = TestTransactions.CONVERGENT_e;
@@ -158,6 +180,11 @@ namespace ProjectEuler65_ConvergentsOfe.Tests
         {
             LeadingCoeff = 9,
             PeriodicCoeffs = new List<int> { 1, 2, 3, 1, 1, 5, 1, 8, 1, 5, 1, 1, 3, 2, 1, 18 },
+        };
+        public static Convergent CONVERGENT_SQRT_61 = new Convergent
+        {
+            LeadingCoeff = 7,
+            PeriodicCoeffs = new List<int> { 1, 4, 3, 1, 2, 2, 1, 3, 4, 1, 14 },
         };
     }
 }

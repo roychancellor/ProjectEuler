@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler66_DiophantineEquation", "Euler66_DiophantineEquation.csproj", "{5825B827-59FF-4643-A1C7-DED1470FE1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.royware.RoyUtils", "..\..\RoyUtils\com.royware.RoyUtils\com.royware.RoyUtils.csproj", "{42897BAA-67CB-4A58-8DA4-0469E501D521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler66_DiophantineEquationTests", "..\Euler66_DiophantineEquationTests\Euler66_DiophantineEquationTests.csproj", "{D525814F-FDE3-4FA2-B1F3-C18FEAC3B0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.royware.RoyUtils.Tests", "..\..\RoyUtils\com.royware.RoyUtils.Tests\com.royware.RoyUtils.Tests.csproj", "{700D528E-1774-427A-9D10-F52CB3D4F056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5825B827-59FF-4643-A1C7-DED1470FE1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5825B827-59FF-4643-A1C7-DED1470FE1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5825B827-59FF-4643-A1C7-DED1470FE1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5825B827-59FF-4643-A1C7-DED1470FE1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42897BAA-67CB-4A58-8DA4-0469E501D521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42897BAA-67CB-4A58-8DA4-0469E501D521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42897BAA-67CB-4A58-8DA4-0469E501D521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42897BAA-67CB-4A58-8DA4-0469E501D521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D525814F-FDE3-4FA2-B1F3-C18FEAC3B0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D525814F-FDE3-4FA2-B1F3-C18FEAC3B0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D525814F-FDE3-4FA2-B1F3-C18FEAC3B0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D525814F-FDE3-4FA2-B1F3-C18FEAC3B0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{700D528E-1774-427A-9D10-F52CB3D4F056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700D528E-1774-427A-9D10-F52CB3D4F056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700D528E-1774-427A-9D10-F52CB3D4F056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700D528E-1774-427A-9D10-F52CB3D4F056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1EB2417-43DC-4CFB-8E80-A9C7B52565EF}
+	EndGlobalSection
+EndGlobal

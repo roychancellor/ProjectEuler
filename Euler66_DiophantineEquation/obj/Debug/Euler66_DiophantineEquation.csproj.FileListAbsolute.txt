@@ -1,0 +1,9 @@
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\bin\Debug\Euler66_DiophantineEquation.exe.config
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\bin\Debug\Euler66_DiophantineEquation.exe
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\bin\Debug\Euler66_DiophantineEquation.pdb
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\bin\Debug\com.royware.RoyUtils.dll
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\bin\Debug\com.royware.RoyUtils.pdb
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\obj\Debug\Euler66_DiophantineEquation.csproj.AssemblyReference.cache
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\obj\Debug\Euler66_DiophantineEquation.csproj.CoreCompileInputs.cache
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\obj\Debug\Euler66_DiophantineEquation.exe
+C:\dev.net\ProjectEuler\Euler66_DiophantineEquation\obj\Debug\Euler66_DiophantineEquation.pdb
